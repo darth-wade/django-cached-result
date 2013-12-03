@@ -1,5 +1,7 @@
 Django Cached Result
 ====================
+.. image:: https://secure.travis-ci.org/darth-wade/django-cached-result.png?branch=master
+   :target: https://travis-ci.org/darth-wade/django-cached-result
 
 Simple API for quick and transparent caching/memoization of functions or dynamic properties results.
 
