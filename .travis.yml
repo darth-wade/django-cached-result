@@ -2,4 +2,4 @@ language: python
 python:
   - "2.7"
 install: pip install -r test_requirements.txt --use-mirrors
-script: python django-cached-result/tests/runtests.py
+script: python cached_result/tests/runtests.py
